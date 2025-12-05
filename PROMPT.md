@@ -1,4 +1,3 @@
-// ----------------- LONG CONTENT : START -----------------
 ### **A. NGUYÊN TẮC LÀM VIỆC**
 
 1. **100% dựa trên nguồn có trích dẫn**
@@ -123,7 +122,7 @@ Khi tìm kiếm & tổng hợp, hãy đặc biệt trả lời cho 7 nhóm câu 
 
 ### **D. CẤU TRÚC ĐẦU RA MONG MUỐN**
 
-Hãy trình bày kết quả theo **3 tầng**, giống một “bản đồ nghiên cứu” để sau này có thể biên soạn thành cẩm nang:
+Hãy trình bày kết quả theo **3 tầng**, giống một "bản đồ nghiên cứu" để sau này có thể biên soạn thành cẩm nang:
 
 ---
 
@@ -131,27 +130,27 @@ Hãy trình bày kết quả theo **3 tầng**, giống một “bản đồ ngh
 
 1.1. **Bảng tổng hợp nguồn theo nhóm** (trình bày dạng bảng):
 
-* Cột gợi ý:
+* **BẮT BUỘC TÌM KIẾM THÊM NGUỒN MỚI** từ web để bổ sung vào các nhóm sau:
+  * **A. SÁCH & CHƯƠNG SÁCH VỀ GIÁO DỤC TOÁN HỌC**
+  * **B. BÀI BÁO KHOA HỌC & LUẬN VĂN**
+  * **C. TÀI LIỆU CHÍNH THỨC & CHUẨN CHƯƠNG TRÌNH**
+  * **D. KHÓA HỌC / MOOC / OER**
+  * **E. VIDEO & KÊNH GIÁO DỤC**
+  * **F. BÀI VIẾT & BLOG GIÁO VIÊN THỰC HÀNH**
 
-  * Nhóm nguồn (Sách / Bài báo / Tài liệu chính thức / Khoá học / Video / Bài viết GV thực hành)
-
+* Cột bắt buộc phải có:
   * Tác giả – Năm
-
   * Tên tài liệu
-
-  * Mô tả 2–3 dòng (liên quan đến mạch Số & Phép tính ở khía cạnh nào)
-
-  * Liên quan mạnh nhất tới mục (1–2–3–4–5–6–7) ở trên
-
-  * URL (link truy cập)
-
+  * Mô tả ngắn (2-3 dòng)
+  * Liên quan mục (1-7)
+  * URL (link truy cập được)
   * Ngôn ngữ & Quốc gia
-
-  * Ghi chú (miễn phí/trả phí; dễ đọc/khó; rất khuyến nghị/ tham khảo thêm)
+  * Ghi chú (miễn phí/trả phí, rất khuyến nghị)
 
 1.2. **Phân loại theo độ ưu tiên**
 
-* Đánh dấu *Top 20–30 nguồn cốt lõi* mà giáo viên nên ưu tiên đọc nếu thời gian hạn chế.
+* **🌟 TOP 20 NGUỒN CỐT LÕI (Must-Read)** - Đánh dấu và liệt kê riêng
+* Sắp xếp theo mức độ quan trọng cho giáo viên tiểu học
 
 ---
 
@@ -159,13 +158,15 @@ Hãy trình bày kết quả theo **3 tầng**, giống một “bản đồ ngh
 
 Với **mỗi** trong 7 mục (1 → 7), hãy:
 
-* Viết **tóm tắt tổng quan 1–2 trang (nếu có thể)**:
+* Viết **tóm tắt tổng quan**:
 
   * Các khung lý thuyết chính
-
   * Ý tưởng dạy học thực tiễn quan trọng
-
   * Những khuyến nghị có bằng chứng từ nghiên cứu
+
+* **VIẾT SẴN CÁC CHƯƠNG MẪU** chi tiết:
+  * **CHƯƠNG 1: TỔNG QUAN VỀ DẠY HỌC SỐ VÀ PHÉP TÍNH Ở TIỂU HỌC**
+  * **CHƯƠNG 2: CƠ SỞ LÝ THUYẾT VỀ DẠY HỌC SỐ VÀ PHÉP TÍNH**
 
 * Đính kèm trong ngoặc vuông **\[Tác giả, năm\]** ở chỗ cần, và cuối mục liệt kê **danh mục tài liệu đã dùng** (kèm link).
 
@@ -181,7 +182,7 @@ Dựa trên các nguồn đã tổng hợp, hãy **đề xuất một MỤC LỤ
 
 Yêu cầu:
 
-* Giữ **tinh thần cấu trúc** giống ví dụ cẩm nang NotebookLM: chia theo **PHẦN – CHƯƠNG – PHỤ LỤC**, mỗi phần phục vụ 1 cụm mục tiêu rõ ràng (nền tảng lý thuyết, cập nhật chương trình, hướng dẫn cho GV, kế hoạch dạy học mẫu, case study, template, rubric & checklist, thư viện tài liệu,…).
+* Giữ **tinh thần cấu trúc** chuyên nghiệp: chia theo **PHẦN – CHƯƠNG – PHỤ LỤC**, mỗi phần phục vụ 1 cụm mục tiêu rõ ràng.
 
 * Mỗi **PHẦN** ghi kèm:
 
@@ -195,17 +196,22 @@ Yêu cầu:
 
   * Nội dung chính (gạch đầu dòng)
 
-  * Gợi ý loại tài liệu/nguồn sẽ được khai thác để viết chương đó.
+  * **Nguồn khai thác** (liệt kê các số hiệu nguồn từ TẦNG 1)
 
 Cuối cùng, hãy đề xuất:
 
 * **PHỤ LỤC** gồm:
-  i
-  * Template kế hoạch bài dạy Số & Phép tính (dạy học phân hoá, tích hợp, giáo dục tài chính, năng lực số & AI).
+  * **Phụ lục A: Template Kế Hoạch Bài Dạy** (A1-A4)
+  * **Phụ lục B: Rubric Đánh Giá** (B1-B4)
+  * **Phụ lục C: Checklist cho Giáo Viên** (C1-C4)
+  * **Phụ lục D: Ngân Hàng Trò Chơi và Hoạt Động**
+  * **Phụ lục E: Thư Viện Tài Liệu Tham Khảo**
 
-  * Một số **rubric đánh giá năng lực toán học** trong mạch Số & Phép tính.
-
-  * **Checklist** cho giáo viên khi thiết kế bài dạy Số & Phép tính.
+* **TỰ KIỂM TRA HOÀN THÀNH** với checklist:
+  * ✅ Đã cung cấp bảng nguồn với link URL cụ thể
+  * ✅ Đã liên hệ rõ ràng nguồn với 7 nhóm nội dung
+  * ✅ Khung mục lục toàn diện: lý luận → thực hành → đánh giá → phụ lục
+  * ✅ Cấu trúc logic từ nền tảng đến ứng dụng
 
 ---
 
@@ -223,33 +229,23 @@ Cuối cùng, hãy đề xuất:
 
 ---
 
-### **F. TỰ KIỂM TRA (CHO CHÍNH BẠN – MÔ HÌNH AI)**
+### **F. YÊU CẦU BẮT BUỘC KHI TẠO KẾT QUẢ**
 
-Trước khi kết thúc trả lời, hãy tự kiểm tra nhanh:
+**TRƯỚC KHI BẮT ĐẦU:**
+1. **PHẢI TÌM KIẾM WEB** để bổ sung nguồn mới vào các nhóm A-F
+2. **TẠO BẢNG NGUỒN ĐẦY ĐỦ** với ít nhất 20-30 nguồn mỗi nhóm
+3. **VIẾT SẴN 2 CHƯƠNG MẪU** chi tiết với đầy đủ nội dung
 
-1. Tôi đã cung cấp **danh sách nguồn kèm link cụ thể** hay mới dừng ở mức nói chung chung?
+**KHI HOÀN THÀNH:**
+1. ✅ Đã cung cấp bảng nguồn với link URL cụ thể
+2. ✅ Đã liên hệ rõ ràng nguồn với 7 nhóm nội dung
+3. ✅ Khung mục lục toàn diện: lý luận → thực hành → đánh giá → phụ lục
+4. ✅ Cấu trúc logic từ nền tảng đến ứng dụng
+5. ✅ Có sẵn 2 chương mẫu viết chi tiết
 
-2. Tôi đã **liên hệ rõ ràng** giữa từng nguồn và **7 nhóm nội dung** chưa?
+**KHÔNG ĐƯỢC:**
+- Chỉ liệt kê nguồn chung chung
+- Thiếu link URL cụ thể
+- Viết mục lục sáo rỗng
+- Thiếu chương mẫu chi tiết
 
-3. Khung mục lục cẩm nang đã đủ **toàn diện & có logic phát triển** từ lý luận → thực hành → đánh giá → phụ lục hay chưa?
-
-Nếu thấy thiếu, hãy **ưu tiên bổ sung thêm nguồn & mục lục**, không cần diễn giải dài dòng.
-// ----------------- LONG CONTENT : END -----------------
-
-
-
-Bạn là **Trợ lý nghiên cứu giáo dục toán học chuyên sâu**, am hiểu:
-
-* Giáo dục toán tiểu học, đặc biệt mạch **Số và Phép tính**
-
-* Chương trình, chuẩn đầu ra và xu hướng dạy học hiện đại (Việt Nam & quốc tế)
-
-* Phương pháp dạy học tích cực, đánh giá năng lực, dạy học phân hoá, tích hợp liên môn, giáo dục tài chính, năng lực số và trí tuệ nhân tạo trong nhà trường phổ thông
-
-**Nhiệm vụ tổng quát:**
- Dùng năng lực truy cập web (nếu có) để **tìm kiếm – chọn lọc – tổng hợp** tài liệu từ **sách, bài báo khoa học, luận án, tài liệu chính thức, khóa học, video, bài viết chuyên môn,…** về **dạy học Số & Phép tính ở tiểu học**.
- Kết quả dùng làm **tài liệu tham khảo** để biên soạn:
-
-**“CẨM NANG TOÀN DIỆN VỀ DẠY HỌC SỐ & PHÉP TÍNH DÀNH CHO GIÁO VIÊN TIỂU HỌC”**
-
-Cẩm nang cần giúp **tối ưu hóa việc dạy học nội dung Số & Phép tính cho học sinh tiểu học**, có cấu trúc **tương tự** ví dụ cẩm nang NotebookLM (gồm nhiều PHẦN – CHƯƠNG – PHỤ LỤC, có thư mục tham khảo, template, case study,…).
